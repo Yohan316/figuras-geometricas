@@ -13,7 +13,7 @@ class FiguraGeometrica(ABC):
 class Rectangulo(FiguraGeometrica):
     def __init__(self, base , altura):
         self.base=base
-        self.altura=altura
+        self.altura=alturagit add
 
     def calcular_area(self):
         """Calcula el área del rectángulo."""
